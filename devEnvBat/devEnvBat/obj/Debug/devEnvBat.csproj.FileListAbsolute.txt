@@ -1,0 +1,9 @@
+D:\dev\devEnvBat\devEnvBat\devEnvBat\bin\Debug\devEnvBat.exe.config
+D:\dev\devEnvBat\devEnvBat\devEnvBat\bin\Debug\devEnvBat.exe
+D:\dev\devEnvBat\devEnvBat\devEnvBat\bin\Debug\devEnvBat.pdb
+D:\dev\devEnvBat\devEnvBat\devEnvBat\obj\Debug\devEnvBat.csprojAssemblyReference.cache
+D:\dev\devEnvBat\devEnvBat\devEnvBat\obj\Debug\devEnvBat.Form1.resources
+D:\dev\devEnvBat\devEnvBat\devEnvBat\obj\Debug\devEnvBat.Properties.Resources.resources
+D:\dev\devEnvBat\devEnvBat\devEnvBat\obj\Debug\devEnvBat.csproj.GenerateResource.cache
+D:\dev\devEnvBat\devEnvBat\devEnvBat\obj\Debug\devEnvBat.exe
+D:\dev\devEnvBat\devEnvBat\devEnvBat\obj\Debug\devEnvBat.pdb

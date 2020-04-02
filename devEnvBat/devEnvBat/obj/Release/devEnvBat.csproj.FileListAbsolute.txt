@@ -1,0 +1,8 @@
+D:\dev\devEnvBat\devEnvBat\devEnvBat\bin\Release\devEnvBat.exe.config
+D:\dev\devEnvBat\devEnvBat\devEnvBat\bin\Release\devEnvBat.exe
+D:\dev\devEnvBat\devEnvBat\devEnvBat\bin\Release\devEnvBat.pdb
+D:\dev\devEnvBat\devEnvBat\devEnvBat\obj\Release\devEnvBat.Form1.resources
+D:\dev\devEnvBat\devEnvBat\devEnvBat\obj\Release\devEnvBat.Properties.Resources.resources
+D:\dev\devEnvBat\devEnvBat\devEnvBat\obj\Release\devEnvBat.csproj.GenerateResource.cache
+D:\dev\devEnvBat\devEnvBat\devEnvBat\obj\Release\devEnvBat.exe
+D:\dev\devEnvBat\devEnvBat\devEnvBat\obj\Release\devEnvBat.pdb

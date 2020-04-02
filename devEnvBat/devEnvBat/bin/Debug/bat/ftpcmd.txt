@@ -1,0 +1,7 @@
+user mcpelee mcse98go^^
+cd html
+prompt
+bin
+hash
+mput -R *.* 
+bye

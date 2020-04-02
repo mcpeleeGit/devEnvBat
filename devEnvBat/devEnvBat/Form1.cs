@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Diagnostics;
+using System.IO;
 
 namespace devEnvBat
 {
@@ -17,5 +19,33 @@ namespace devEnvBat
             InitializeComponent();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Process.Start(Application.StartupPath + "/bat/apache_start.bat");
+        }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Process.Start(Application.StartupPath + "/bat/apache_stop.bat");
+        }
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Process.Start(Application.StartupPath + "/bat/npm_start.bat");
+        }
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Process.Start(Application.StartupPath + "/bat/npm_build.bat");
+        }
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Process.Start(Application.StartupPath + "/bat/copy.bat");
+        }
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Process.Start(Application.StartupPath + "/bat/api copy.bat");
+        }
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Process.Start(Application.StartupPath + "/bat/ftp.bat");
+        }
     }
 }
